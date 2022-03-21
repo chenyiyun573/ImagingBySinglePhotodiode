@@ -1,14 +1,13 @@
 This lab aimed to image with a single photodiode and a projector
+This respository is my note for this lab. CopyRight@ChenYiyun
 
-This is my note for this lab. CopyRight@ChenYiyun
-
-
+<br/>
 This lab use (Launchpad)MSP-EXP430F5529LP, the sensor circuit connected to P6.0
 
 By getting the voltage of P6.0, we can get the lightness of the sensor. The launchpad connects to the computer by a USB line.
 
 
-
+<br/>
 capture_image.py: 
 
 Output the mask matrix to projector and  communicate with the launchpad to get the sensor input data and store it
@@ -22,7 +21,7 @@ helpers.py: some functions for single_piexl.py/multi_piexl.py to call
 
 
 
-
+<br/>
 
 Steps:
 
