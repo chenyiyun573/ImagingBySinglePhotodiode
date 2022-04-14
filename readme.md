@@ -1,5 +1,5 @@
 This lab aimed to image with a single photodiode and a projector
-This respository is my note for this lab. CopyRight@ChenYiyun
+This respository is my note for this lab. 
 
 <br/>
 This lab use (Launchpad)MSP-EXP430F5529LP, the sensor circuit connected to P6.0
